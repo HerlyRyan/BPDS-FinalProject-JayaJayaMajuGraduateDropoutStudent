@@ -187,7 +187,7 @@ Model tersedia dalam bentuk aplikasi **Streamlit** interaktif, di mana pengguna 
 * Mendapatkan prediksi dropout/lulus secara instan
 * Melihat tingkat kepercayaan prediksi
 
-🟢 **Coba online**: [Streamlit App Prototype](https://jayajayainstitut-studentdropout-h7v5lauua6ybavmvped2xd.streamlit.app/)
+🟢 **Coba online**: [Streamlit App Prototype](https://bpds-finalproject-jayajayamajugraduatedropoutstudent-7yxe3fqfj.streamlit.app/)
 
 ### **Menjalankan Secara Lokal**
 
