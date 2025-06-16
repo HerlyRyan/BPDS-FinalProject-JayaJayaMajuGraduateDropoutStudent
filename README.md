@@ -80,7 +80,7 @@ Perintah di atas akan menginstal seluruh library yang dibutuhkan untuk menjalank
 
 ### **Dashboard Bisnis**
 ![Dashboard](herly-dashboard.png)  
-Dashboard yang dibangun dengan **Looker Studio** ini memberikan insight penting bagi Jaya Jaya Institut melalui enam visualisasi utama. Berikut link [LookerDashboard]('https://lookerstudio.google.com/reporting/16df8415-ef90-43c9-8b0b-79b5c192b84a')
+Dashboard yang dibangun dengan **Looker Studio** ini memberikan insight penting bagi Jaya Jaya Institut melalui enam visualisasi utama. Berikut link [LookerDashboard](https://lookerstudio.google.com/reporting/16df8415-ef90-43c9-8b0b-79b5c192b84a)
 
 #### **Visualisasi Utama:**
 
